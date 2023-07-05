@@ -1,0 +1,12 @@
+C:\Users\brend\Desktop\Projects\Windows-From-Game\Game-WinForm\bin\Debug\Game-WinForm.exe.config
+C:\Users\brend\Desktop\Projects\Windows-From-Game\Game-WinForm\bin\Debug\Game-WinForm.exe
+C:\Users\brend\Desktop\Projects\Windows-From-Game\Game-WinForm\bin\Debug\Game-WinForm.pdb
+C:\Users\brend\Desktop\Projects\Windows-From-Game\Game-WinForm\obj\Debug\Game-WinForm.csproj.AssemblyReference.cache
+C:\Users\brend\Desktop\Projects\Windows-From-Game\Game-WinForm\obj\Debug\Game-WinForm.csproj.SuggestedBindingRedirects.cache
+C:\Users\brend\Desktop\Projects\Windows-From-Game\Game-WinForm\obj\Debug\Game_WinForm.Form1.resources
+C:\Users\brend\Desktop\Projects\Windows-From-Game\Game-WinForm\obj\Debug\Game_WinForm.Properties.Resources.resources
+C:\Users\brend\Desktop\Projects\Windows-From-Game\Game-WinForm\obj\Debug\Game-WinForm.csproj.GenerateResource.cache
+C:\Users\brend\Desktop\Projects\Windows-From-Game\Game-WinForm\obj\Debug\Game-WinForm.csproj.CoreCompileInputs.cache
+C:\Users\brend\Desktop\Projects\Windows-From-Game\Game-WinForm\obj\Debug\Game-WinForm.exe
+C:\Users\brend\Desktop\Projects\Windows-From-Game\Game-WinForm\obj\Debug\Game-WinForm.pdb
+C:\Users\brend\Desktop\Projects\Windows-From-Game\Game-WinForm\obj\Debug\Game_WinForm.HighScore.resources
